@@ -1,0 +1,80 @@
+.bg-viajes_chile {
+
+    background-color: #328c99;
+    opacity: 90%;
+}
+
+body {
+    font-family: "Poppins", sans-serif
+}
+
+.bg-black {
+
+    width: 100%;
+    background-color: #000000;
+
+}
+
+article h1 {
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+
+
+.cyan-icon {
+    background-color:rgb(37, 223, 223);
+    padding: 5px;
+    border-radius: 0%;
+    padding-left: 140px;    
+}
+
+
+
+.bg-card {
+    background-color: rgb(37, 223, 223);
+}
+
+.btn-enviar {
+    background-color: rgb(37, 223, 223);
+}
+
+.bg-mensaje {
+    height: 200px;
+}
+
+
+footer h1{
+color: #FFFFFF;
+display: inline-block;
+/* padding-left: 0px; */
+float: left;
+margin-right: 10px;
+}
+
+.bg-footer {
+    background-color: rgb(37, 223, 223); /* Cambia el color de fondo del footer según tus preferencias */
+    padding: 50px;
+    color: white; /* Cambia el color del texto del footer según tus preferencias */
+}
+
+
+.contenedor {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    /* display: inline-block; */
+    float: right;
+}
+
+.enlace {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.icono {
+    /* Ajusta los estilos del icono según tus necesidades */
+}
