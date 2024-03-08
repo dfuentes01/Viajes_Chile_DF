@@ -1,7 +1,15 @@
 .bg-viajes_chile {
 
-    background-color: #328c99;
-    opacity: 90%;
+    background-color: transparent;
+}
+
+
+.carousel {
+    margin-top: 0px; /* Ajuste para evitar que el contenido del carousel se solape con el navbar */
+}
+
+.carousel-inner {
+    height: 100vh; /* Establecer la altura del carousel al 100% del viewport */
 }
 
 body {
@@ -22,7 +30,6 @@ article h1 {
     padding-top: 25px;
     padding-bottom: 25px;
 }
-
 
 
 .cyan-icon {
