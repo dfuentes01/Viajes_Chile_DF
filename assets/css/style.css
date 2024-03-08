@@ -70,15 +70,6 @@ body {
     height: 200px;
 }
 
-
-footer h1{
-color: #FFFFFF;
-display: inline-block;
-/* padding-left: 0px; */
-float: left;
-margin-right: 10px;
-}
-
 .bg-footer {
     height: 100px;
     background-color: rgb(37, 223, 223); /* Cambia el color de fondo del footer según tus preferencias */
@@ -103,7 +94,4 @@ margin-right: 10px;
     margin-right: 5px;
 }
 
-.icono {
-    /* Ajusta los estilos del icono según tus necesidades */
-}
 
