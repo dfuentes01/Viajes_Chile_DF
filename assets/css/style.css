@@ -23,7 +23,7 @@ body {
 
 }
 
-article h1 {
+#quienes-somos {
     color: #FFFFFF;
     text-align: center;
     font-size: 25px;
@@ -31,6 +31,21 @@ article h1 {
     padding-bottom: 25px;
 }
 
+#Destacados {
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+#Contacto {
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
 
 .cyan-icon {
     background-color:rgb(37, 223, 223);
@@ -48,6 +63,7 @@ article h1 {
 
 .btn-enviar {
     background-color: rgb(37, 223, 223);
+    align-items: start;
 }
 
 .bg-mensaje {
@@ -64,7 +80,7 @@ margin-right: 10px;
 }
 
 .bg-footer {
-    height: 150px;
+    height: 100px;
     background-color: rgb(37, 223, 223); /* Cambia el color de fondo del footer según tus preferencias */
     padding-top: 25px;
     padding-bottom: 25px;
@@ -90,3 +106,4 @@ margin-right: 10px;
 .icono {
     /* Ajusta los estilos del icono según tus necesidades */
 }
+
