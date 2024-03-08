@@ -6,10 +6,17 @@
 
 .carousel {
     margin-top: 0px; /* Ajuste para evitar que el contenido del carousel se solape con el navbar */
+    margin-bottom: 0px;
 }
 
 .carousel-inner {
-    height: 100vh; /* Establecer la altura del carousel al 100% del viewport */
+    /* height: 100vh; Establecer la altura del carousel al 100% del viewport */
+    min-height: 25vh;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: auto;
 }
 
 body {
@@ -93,5 +100,4 @@ body {
     display: inline-block;
     margin-right: 5px;
 }
-
 
