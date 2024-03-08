@@ -29,7 +29,8 @@ article h1 {
     background-color:rgb(37, 223, 223);
     padding: 5px;
     border-radius: 0%;
-    padding-left: 140px;    
+    /* padding-left: 140px;  */
+    text-align: center;   
 }
 
 
@@ -56,8 +57,12 @@ margin-right: 10px;
 }
 
 .bg-footer {
+    height: 150px;
     background-color: rgb(37, 223, 223); /* Cambia el color de fondo del footer según tus preferencias */
-    padding: 50px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 100px;
+    padding-right: 100px;
     color: white; /* Cambia el color del texto del footer según tus preferencias */
 }
 
@@ -72,7 +77,7 @@ margin-right: 10px;
 
 .enlace {
     display: inline-block;
-    margin-right: 10px;
+    margin-right: 5px;
 }
 
 .icono {
